@@ -1,0 +1,54 @@
+.image10{
+    margin-left: 20px;
+}
+.navbar-brand{
+    margin-left:40% ;
+}
+
+.navbar{
+    width: 102%;
+    margin-left: -12px;
+    margin-top: -12px;
+}
+.para1{
+    font-size: 7px;
+}
+.image1{
+    
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.image2{
+   margin-left: 25em;
+   margin-top: -240px;
+
+}
+.image3{
+   margin-top: -235px;
+   margin-left:46em;
+}
+.image4{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.image5{
+    margin-left: 25em;
+    margin-top: -240px;
+}
+.image6{
+    margin-top: -230px;
+   margin-left:46em;
+}
+.background{
+    
+    height: 5000px;
+    width: 100em;
+    background-repeat: no-repeat;
+}
+.img{
+   width: 300%;
+   height: 300px;
+   background-size: cover;
+}
+
